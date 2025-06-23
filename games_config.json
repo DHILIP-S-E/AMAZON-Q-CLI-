@@ -1,0 +1,390 @@
+{
+  "games": [
+    {
+      "title": "Alien Storm",
+      "file": "alien_storm.py",
+      "description": "Alien Storm - Space shooter with waves of alien enemies Part of GameVerse Hub",
+      "id": "alien_storm",
+      "category": "shooter",
+      "difficulty": "medium",
+      "estimated_playtime": "10-20 min",
+      "multiplayer": false,
+      "requirements": [
+        "pygame"
+      ],
+      "version": "1.0.0",
+      "author": "Unknown",
+      "tags": [
+        "action",
+        "pygame",
+        "oop"
+      ],
+      "thumbnail": "assets/thumbnails/alien_storm.png",
+      "achievements": [],
+      "leaderboard": false
+    },
+    {
+      "id": "chess_master",
+      "title": "Chess Master",
+      "file": "chess_master.py",
+      "description": "Placeholder for chess_master.py This is a demo game that shows how the GameVerse Hub launches games.",
+      "category": "board",
+      "difficulty": "medium",
+      "estimated_playtime": "10-20 min",
+      "multiplayer": false,
+      "requirements": [
+        "pygame"
+      ],
+      "version": "1.0.0",
+      "author": "Unknown",
+      "tags": [
+        "pygame"
+      ],
+      "thumbnail": "assets/thumbnails/chess_master.png",
+      "achievements": [],
+      "leaderboard": false,
+      "last_played": null,
+      "playtime": 0,
+      "high_score": 0,
+      "completion_rate": 0.0
+    },
+    {
+      "id": "city_builder",
+      "title": "City Builder",
+      "file": "city_builder.py",
+      "description": "Placeholder for city_builder.py This is a demo game that shows how the GameVerse Hub launches games.",
+      "category": "typing",
+      "difficulty": "medium",
+      "estimated_playtime": "10-20 min",
+      "multiplayer": false,
+      "requirements": [
+        "pygame"
+      ],
+      "version": "1.0.0",
+      "author": "Unknown",
+      "tags": [
+        "pygame"
+      ],
+      "thumbnail": "assets/thumbnails/city_builder.png",
+      "achievements": [],
+      "leaderboard": false,
+      "last_played": null,
+      "playtime": 0,
+      "high_score": 0,
+      "completion_rate": 0.0
+    },
+    {
+      "id": "cookie_clicker",
+      "title": "Cookie Clicker",
+      "file": "cookie_clicker.py",
+      "description": "Cookie Clicker - Addictive incremental clicking game Part of GameVerse Hub",
+      "category": "arcade",
+      "difficulty": "medium",
+      "estimated_playtime": "10-20 min",
+      "multiplayer": false,
+      "requirements": [
+        "pygame"
+      ],
+      "version": "1.0.0",
+      "author": "Unknown",
+      "tags": [
+        "pygame",
+        "oop"
+      ],
+      "thumbnail": "assets/thumbnails/cookie_clicker.png",
+      "achievements": [],
+      "leaderboard": false,
+      "last_played": null,
+      "playtime": 0,
+      "high_score": 0,
+      "completion_rate": 0.0
+    },
+    {
+      "title": "Idle Clicker",
+      "file": "idle_clicker.py",
+      "description": "Idle Clicker - Cookie Clicker Style Game Part of GameVerse Hub",
+      "id": "idle_clicker",
+      "category": "clicker",
+      "difficulty": "medium",
+      "estimated_playtime": "10-20 min",
+      "multiplayer": false,
+      "requirements": [
+        "pygame"
+      ],
+      "version": "1.0.0",
+      "author": "Unknown",
+      "tags": [
+        "pygame",
+        "oop"
+      ],
+      "thumbnail": "assets/thumbnails/idle_clicker.png",
+      "achievements": [],
+      "leaderboard": false
+    },
+    {
+      "title": "Mind Maze",
+      "file": "mind_maze.py",
+      "description": "Mind Maze - Challenging puzzle game with brain teasers Part of GameVerse Hub - Placeholder Implementation",
+      "id": "mind_maze",
+      "category": "puzzle",
+      "difficulty": "medium",
+      "estimated_playtime": "10-20 min",
+      "multiplayer": false,
+      "requirements": [
+        "pygame"
+      ],
+      "version": "1.0.0",
+      "author": "Unknown",
+      "tags": [
+        "pygame",
+        "oop"
+      ],
+      "thumbnail": "assets/thumbnails/mind_maze.png",
+      "achievements": [],
+      "leaderboard": false
+    },
+    {
+      "title": "Mini Board Game",
+      "file": "mini_board_game.py",
+      "description": "Mini Board Game - Tic-Tac-Toe with AI Part of GameVerse Hub",
+      "id": "mini_board_game",
+      "category": "clicker",
+      "difficulty": "medium",
+      "estimated_playtime": "10-20 min",
+      "multiplayer": false,
+      "requirements": [
+        "pygame"
+      ],
+      "version": "1.0.0",
+      "author": "Unknown",
+      "tags": [
+        "challenging",
+        "pygame",
+        "oop"
+      ],
+      "thumbnail": "assets/thumbnails/mini_board_game.png",
+      "achievements": [],
+      "leaderboard": false
+    },
+    {
+      "title": "Quiz Game",
+      "file": "quiz_game.py",
+      "description": "Quiz Game - Multiple Choice Questions with Score Tracking Part of GameVerse Hub",
+      "id": "quiz_game",
+      "category": "puzzle",
+      "difficulty": "medium",
+      "estimated_playtime": "10-20 min",
+      "multiplayer": false,
+      "requirements": [
+        "json",
+        "pygame"
+      ],
+      "version": "1.0.0",
+      "author": "Unknown",
+      "tags": [
+        "pygame",
+        "oop"
+      ],
+      "thumbnail": "assets/thumbnails/quiz_game.png",
+      "achievements": [],
+      "leaderboard": false
+    },
+    {
+      "id": "quiz_master",
+      "title": "Quiz Master",
+      "file": "quiz_master.py",
+      "description": "Placeholder for quiz_master.py This is a demo game that shows how the GameVerse Hub launches games.",
+      "category": "quiz",
+      "difficulty": "medium",
+      "estimated_playtime": "10-20 min",
+      "multiplayer": false,
+      "requirements": [
+        "pygame"
+      ],
+      "version": "1.0.0",
+      "author": "Unknown",
+      "tags": [
+        "pygame"
+      ],
+      "thumbnail": "assets/thumbnails/quiz_master.png",
+      "achievements": [],
+      "leaderboard": false,
+      "last_played": null,
+      "playtime": 0,
+      "high_score": 0,
+      "completion_rate": 0.0
+    },
+    {
+      "title": "Retro Breakout",
+      "file": "retro_breakout.py",
+      "description": "Retro Breakout - Classic brick-breaking arcade action Part of GameVerse Hub",
+      "id": "retro_breakout",
+      "category": "racing",
+      "difficulty": "medium",
+      "estimated_playtime": "10-20 min",
+      "multiplayer": false,
+      "requirements": [
+        "pygame"
+      ],
+      "version": "1.0.0",
+      "author": "Unknown",
+      "tags": [
+        "retro",
+        "action",
+        "pygame",
+        "oop"
+      ],
+      "thumbnail": "assets/thumbnails/retro_breakout.png",
+      "achievements": [],
+      "leaderboard": false
+    },
+    {
+      "title": "Simple Racer",
+      "file": "simple_racer.py",
+      "description": "Simple Racer - Top-down Racing Game Part of GameVerse Hub",
+      "id": "simple_racer",
+      "category": "racing",
+      "difficulty": "medium",
+      "estimated_playtime": "10-20 min",
+      "multiplayer": false,
+      "requirements": [
+        "pygame"
+      ],
+      "version": "1.0.0",
+      "author": "Unknown",
+      "tags": [
+        "pygame",
+        "oop"
+      ],
+      "thumbnail": "assets/thumbnails/simple_racer.png",
+      "achievements": [],
+      "leaderboard": false
+    },
+    {
+      "title": "Sim City Clone",
+      "file": "sim_city_clone.py",
+      "description": "Sim City Clone - Basic Idle Economy Simulation Part of GameVerse Hub",
+      "id": "sim_city_clone",
+      "category": "racing",
+      "difficulty": "medium",
+      "estimated_playtime": "10-20 min",
+      "multiplayer": false,
+      "requirements": [
+        "pygame"
+      ],
+      "version": "1.0.0",
+      "author": "Unknown",
+      "tags": [
+        "pygame",
+        "oop"
+      ],
+      "thumbnail": "assets/thumbnails/sim_city_clone.png",
+      "achievements": [],
+      "leaderboard": false
+    },
+    {
+      "id": "speed_racer",
+      "title": "Speed Racer",
+      "file": "speed_racer.py",
+      "description": "Placeholder for speed_racer.py This is a demo game that shows how the GameVerse Hub launches games.",
+      "category": "racing",
+      "difficulty": "medium",
+      "estimated_playtime": "10-20 min",
+      "multiplayer": false,
+      "requirements": [
+        "pygame"
+      ],
+      "version": "1.0.0",
+      "author": "Unknown",
+      "tags": [
+        "pygame"
+      ],
+      "thumbnail": "assets/thumbnails/speed_racer.png",
+      "achievements": [],
+      "leaderboard": false,
+      "last_played": null,
+      "playtime": 0,
+      "high_score": 0,
+      "completion_rate": 0.0
+    },
+    {
+      "title": "Speed Typing",
+      "file": "speed_typing.py",
+      "description": "Speed Typing Game - Type falling words and test your WPM Part of GameVerse Hub",
+      "id": "speed_typing",
+      "category": "platformer",
+      "difficulty": "medium",
+      "estimated_playtime": "10-20 min",
+      "multiplayer": false,
+      "requirements": [
+        "pygame"
+      ],
+      "version": "1.0.0",
+      "author": "Unknown",
+      "tags": [
+        "action",
+        "pygame",
+        "oop"
+      ],
+      "thumbnail": "assets/thumbnails/speed_typing.png",
+      "achievements": [],
+      "leaderboard": false
+    },
+    {
+      "title": "Super Pixel Runner",
+      "file": "super_pixel_runner.py",
+      "description": "Super Pixel Runner - A side-scrolling platformer Part of GameVerse Hub",
+      "id": "super_pixel_runner",
+      "category": "platformer",
+      "difficulty": "medium",
+      "estimated_playtime": "10-20 min",
+      "multiplayer": false,
+      "requirements": [
+        "pygame"
+      ],
+      "version": "1.0.0",
+      "author": "Unknown",
+      "tags": [
+        "retro",
+        "pygame",
+        "oop"
+      ],
+      "thumbnail": "assets/thumbnails/super_pixel_runner.png",
+      "achievements": [],
+      "leaderboard": false
+    },
+    {
+      "id": "type_fighter",
+      "title": "Type Fighter",
+      "file": "type_fighter.py",
+      "description": "Placeholder for type_fighter.py This is a demo game that shows how the GameVerse Hub launches games.",
+      "category": "typing",
+      "difficulty": "medium",
+      "estimated_playtime": "10-20 min",
+      "multiplayer": false,
+      "requirements": [
+        "pygame"
+      ],
+      "version": "1.0.0",
+      "author": "Unknown",
+      "tags": [
+        "pygame"
+      ],
+      "thumbnail": "assets/thumbnails/type_fighter.png",
+      "achievements": [],
+      "leaderboard": false,
+      "last_played": null,
+      "playtime": 0,
+      "high_score": 0,
+      "completion_rate": 0.0
+    }
+  ],
+  "hub_settings": {
+    "theme": "retro",
+    "layout": "grid",
+    "auto_update": true,
+    "analytics": false,
+    "cloud_sync": false,
+    "parental_controls": false
+  }
+}
